@@ -1,0 +1,8 @@
+matplotlib
+scipy
+sklearn
+hmmlearn
+simplejson
+eyed3
+pydub
+pyAudioAnalysis
