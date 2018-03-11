@@ -1,4 +1,6 @@
 # Python Audio processing tools in a Docker image
+[![Build Status](https://travis-ci.org/kubikb/py-audio-docker.svg?branch=master)](https://travis-ci.org/kubikb/py-audio-docker)
+
 This repo is meant to provide a prepared environment to carry out audio processing and analysis in Python 2.7. Currently [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) is included (its dependencies are also installed), but other tools like relevant [bio.bio packages](https://www.idiap.ch/software/bob/docs/bob/bob/stable/list.html#signal-audio-image-and-video-processing) are also planned to be added.
 
 ## Testing
